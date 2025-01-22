@@ -3,7 +3,7 @@
 
 You can refer to this book as:
 
-> `<editors>` (`2025`) _`<title>`_. `<url to book website>`. Source files at `<link to github repo`
+> `R.H.Tjokrojoso` (`2025`) _`<title>`_. `<url to book website>`. Source files at `<link to github repo`
 
 You can refer to individual chapters or pages within this book as:
 
