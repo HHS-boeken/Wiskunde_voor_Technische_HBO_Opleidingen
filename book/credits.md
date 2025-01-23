@@ -3,7 +3,7 @@
 
 You can refer to this book as:
 
-> `Tjokrojoso, R.H.` (`2025`) _Wiskunde voor Technische HBO Opleidingen_. [https://raoultj.github.io/Wiskunde_voor_Technische_HBO_Opleidingen`. Source files at [https://github.com/RaoulTj/Wiskunde_voor_Technische_HBO_Opleidingen](https://github.com/RaoulTj/Wiskunde_voor_Technische_HBO_Opleidingen)
+> `Tjokrojoso, R.H.` (`2025`) _Wiskunde voor Technische HBO Opleidingen_ https://raoultj.github.io/Wiskunde_voor_Technische_HBO_Opleidingen. Source files at [https://github.com/RaoulTj/Wiskunde_voor_Technische_HBO_Opleidingen](https://github.com/RaoulTj/Wiskunde_voor_Technische_HBO_Opleidingen)
 
 You can refer to individual chapters or pages within this book as:
 
