@@ -3,7 +3,8 @@
 
 You can refer to this book as:
 
-> `R.H.Tjokrojoso` (`2025`) _`<title>`_. `<url to book website>`. Source files at `<link to github repo`
+> `Tjokrojoso, R.H.` (`2025`) _`Wiskunde voor Technische HBO Opleidingen`
+`_. `https://raoultj.github.io/Wiskunde_voor_Technische_HBO_Opleidingen`. Source files at `https://github.com/RaoulTj/Wiskunde_voor_Technische_HBO_Opleidingen`
 
 You can refer to individual chapters or pages within this book as:
 
