@@ -7,7 +7,7 @@ You can refer to this book as:
 
 You can refer to individual chapters or pages within this book as:
 
-> `<Title of Chapter or Page>`. In `Tjokrojoso, R.H.` (`2025) _Wiskunde voor Technische HBO Opleidingen_. `<url to specific page on bbook website>`. Source files at [https://github.com/RaoulTj/Wiskunde_voor_Technische_HBO_Opleidingen](https://github.com/RaoulTj/Wiskunde_voor_Technische_HBO_Opleidingen)
+> `<Title of Chapter or Page>`. In Tjokrojoso, R.H. (2025) _Wiskunde voor Technische HBO Opleidingen_. `<url to specific page on bbook website>`. Source files at [https://github.com/RaoulTj/Wiskunde_voor_Technische_HBO_Opleidingen](https://github.com/RaoulTj/Wiskunde_voor_Technische_HBO_Opleidingen)
 
 We anticipate that the content of this book will change significantly. Therefore, we recommend using the source code directly with the citation above that refers to the GitHub repository and lists the date and name of the file. Although content will be added over time, chapter titles and URL's in this book are expected to remain relatively static. However, we make no guarantee, so if it is important for you to reference a specific location/commit within the book.
 
